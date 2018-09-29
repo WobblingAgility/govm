@@ -1,0 +1,10 @@
+need to get os(Fedora,Centos), type(cloud,workstation,server), name, domain, storage backend
+optional network, RAM, cores
+
+optional yaml
+
+verify no collision with existing machine
+
+create storage
+
+create the virtual machines
